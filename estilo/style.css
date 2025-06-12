@@ -92,10 +92,11 @@ aside > h2{
 aside > p{
     text-indent: 10px;
     text-align: justify;
-    padding: 15px;
+    padding: 10px;
     margin: 30px auto;
-    width: 80%;
-    height: 80vh;
+    width: 70%;
+
+    
 
     font-size: 1.3em;
     border: 3px solid #7c01a1;
